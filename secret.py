@@ -27,3 +27,4 @@ else:
      else:
         str4=word2[i][-4]+word2[i][3:-4]
         print(str4,end=" ")
+
